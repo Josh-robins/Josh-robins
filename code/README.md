@@ -69,12 +69,12 @@ focus:
 
 ### GITHUB METRICS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Josh-robins&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Josh-robins&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josh-robins&theme=dark&hide_border=true)
 
 ### CONTRIBUTION ACTIVITY
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josh-robins&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/cards/profile-details?username=Josh-robins&theme=dark)
 
 </div>
 
